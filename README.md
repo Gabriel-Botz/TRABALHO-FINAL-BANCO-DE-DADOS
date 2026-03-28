@@ -9,13 +9,13 @@ A proposta busca simular um sistema real utilizado em clínicas, permitindo o co
 
 ## 🖼️ Modelo Conceitual 
 
-<img width="1243" height="499" alt="image" src="https://github.com/user-attachments/assets/64a2d49c-41dd-409a-9d1e-3d6888fa2c37" />
+<img width="1238" height="501" alt="image" src="https://github.com/user-attachments/assets/b7a299a9-8c55-4cb9-95d6-3548b5cbb640" />
 
 ---
 
 ## 🖼️ Modelo Lógico
 
-<img width="1021" height="454" alt="image" src="https://github.com/user-attachments/assets/487d1fd9-978f-4076-84dd-bff8a2f4922b" />
+<img width="1043" height="453" alt="image" src="https://github.com/user-attachments/assets/55becf8c-af70-40de-a047-740bfc50598d" />
 
 ---
 
