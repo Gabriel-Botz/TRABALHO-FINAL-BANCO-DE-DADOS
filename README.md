@@ -140,10 +140,3 @@ SELECT * FROM clinica_odonto.vw_lista_consulta;
 👤 Kenny Pavelka
 👤 João Vitor Clemente
 👤 Phelipe Damasio
-
-
-
-
-
-# TRABALHO-FINAL-BANCO-DE-DADOS
-# TRABALHO-FINAL-BANCO-DE-DADOS
