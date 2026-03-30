@@ -4,6 +4,7 @@
 
 
 -- 1a. Quantidade de consultas por especialidade
+
 SELECT 
     d.especialidade, 
     COUNT(c.id_consulta) AS total_consultas
@@ -15,6 +16,7 @@ ORDER BY total_consultas DESC;
 
 
 -- 2a. Quantidade de consultas por dentista
+
 SELECT 
     d.nome_completo, 
     COUNT(c.id_consulta) AS total_consultas
@@ -26,6 +28,7 @@ ORDER BY total_consultas DESC;
 
 
 -- 3a. Pacientes com maior número de consultas
+
 SELECT 
     p.nome_completo, 
     COUNT(c.id_consulta) AS total_consultas
